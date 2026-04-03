@@ -40,3 +40,7 @@
 ---
 
 如果你觉得这些资源对你有帮助，欢迎点个 **Star** ⭐ 支持一下！
+
+## 📄 CSS Creative Menu Hover Effects
+<img width="484" height="521" alt="image" src="https://github.com/user-attachments/assets/5f0d5701-9ccb-4501-9009-b7b8ff98b14c" />
+
